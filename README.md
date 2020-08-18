@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-### Junior frontend developer from Warsaw
+<h3 align="left">Junior frontend developer from Warsaw</h3>
 
 - 🔭 I’m currently working on [my portfolio site](https://github.com/maksymilianMroz/maksymilianmroz.github.io)
 - 🌱 I’m currently learning **React**
