@@ -1,7 +1,6 @@
 <h1 align="center">Hi :fire:, I'm Max</h1>
 <h3 align="left">Junior frontend developer from Warsaw</h3>
 
-- 🔭 I’m currently working on [my portfolio site](https://github.com/maksymilianMroz/maksymilianmroz.github.io)
 - 🌱 I’m currently learning **Git**, **React** and... **Vanilla JS** (because there is never too much of it :zap:)
 - :beetle: Fun fact about animals **A dung beetle is the strongest animal on the planet compared to body weight. They can pull 1,141 times their own body weight. This is the equivalent of an average person pulling six double-decker buses full of people!**
 <br />
